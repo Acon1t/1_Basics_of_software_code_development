@@ -13,5 +13,13 @@ public class Main {
         //Branching.task3();
         //Branching.task4();
         //Branching.task5();
+        //Cycles.task1();
+        //Cycles.task2();
+        //Cycles.task3();
+        //Cycles.task4();
+        //Cycles.task5();
+        //Cycles.task6();
+        //Cycles.task7();
+        Cycles.task8();
     }
 }
